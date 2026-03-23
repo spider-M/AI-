@@ -9,3 +9,6 @@ __pycache__/
 *.pyc
 # »’÷æ
 *.log
+Scripts/
+Include/
+Lib/
